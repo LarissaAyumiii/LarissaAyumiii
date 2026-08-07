@@ -1,12 +1,14 @@
 <div align="center">
 
-<img src="https://i.pinimg.com/736x/5b/d4/90/5bd4906ff04a191927364e71a9834e19.jpg" width="100%"/>
-
-</div>
+<img src="https://i.pinimg.com/736x/5b/d4/90/5bd4906ff04a191927364e71a9834e19.jpg" width="100%" height="300px" style="object-fit: cover;"/>
 
 <br>
 
-🌸 **Estudante de Engenharia de Software**  |  💻 **Desenvolvedora Front-end** | 🎨 **Desenvolvimento Web**
+# Larissa Ayumi
+
+🎓 **Estudante de Engenharia de Software** | 💻 **Desenvolvedora Front-end** | 🎨 **Desenvolvimento Web**
+
+</div>
 
 ---
 
@@ -19,6 +21,12 @@ Busco transformar ideias em experiências web modernas, funcionais e visualmente
 ---
 
 ## ✨ Tecnologias
+
+<div align="left">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,java,mysql,python,git,github,vscode,figma&theme=dark" />
+
+</div>
 
 ---
 
@@ -33,9 +41,23 @@ Busco transformar ideias em experiências web modernas, funcionais e visualmente
 
 ## 📊 GitHub Stats
 
+<div align="left">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=LarissaAyumiii&show_icons=true&theme=github_dark&hide_border=true"/>
+
+</div>
+
 ---
 
 ## 💌 Contact
+
+<div align="left">
+
+💻 Portfólio: https://larissaayumiii.github.io/portf-lio/
+
+💼 LinkedIn: https://www.linkedin.com/in/larissaayumi/
+
+</div>
 
 ---
 
