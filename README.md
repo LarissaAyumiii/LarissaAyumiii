@@ -41,11 +41,7 @@ Busco transformar ideias em experiências web modernas, funcionais e visualmente
 
 ## 📊 GitHub Stats
 
-<div align="left">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=LarissaAyumiii&show_icons=true&theme=github_dark&hide_border=true"/>
-
-</div>
+<div align="center"> <img src="https://streak-stats.demolab.com?user=LarissaAyumiii&theme=tokyonight&hide_border=true"/> </div>
 
 ---
 
